@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\Projects\Linked_Lists\Source.c(35,9): warning C4129: 'L': unrecognized character escape sequence
+D:\Projects\Linked_Lists\Source.c(40,9): warning C4129: 'L': unrecognized character escape sequence
+D:\Projects\Linked_Lists\Source.c(20,6): warning C4101: 'num': unreferenced local variable
+  Problem4_Pop.vcxproj -> C:\Users\Teach\source\repos\Problem4_Pop\Debug\Problem4_Pop.exe

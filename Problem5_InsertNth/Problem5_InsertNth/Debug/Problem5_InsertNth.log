@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Projects\Linked_Lists\Source.c(39,9): warning C4129: 'L': unrecognized character escape sequence
+D:\Projects\Linked_Lists\Source.c(20,6): warning C4101: 'num': unreferenced local variable
+  Problem5_InsertNth.vcxproj -> C:\Users\Teach\source\repos\Problem5_InsertNth\Debug\Problem5_InsertNth.exe
