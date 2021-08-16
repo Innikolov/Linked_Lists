@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Projects\Linked_Lists\Doubly Linked Lists\Complex Linked List\Complex Linked List\Source.c(29,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Complex Linked List.vcxproj -> D:\Projects\Linked_Lists\Doubly Linked Lists\Complex Linked List\Debug\Complex Linked List.exe
